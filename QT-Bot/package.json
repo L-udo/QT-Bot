@@ -1,0 +1,9 @@
+{
+  "name": "qt-bot",
+  "version": "0.0.0",
+  "description": "QT-Bot",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
