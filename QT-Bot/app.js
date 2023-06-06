@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 require('dotenv').config();
 var cute_usrs = [];
-const cute_msgs = ["The Cutie has Spoken!", "Hey! Did you know you were a ||***CUTIE!***||", "Warning, this person is a Confirmed ||***CUTE!***||"];
+const cute_msgs = ["-PlaceHolderMsg-", "-PlaceHolderMsg-", "-PlaceHolderMsg-"]; //placeholder for reading from file
 
 const client = new Discord.Client({
     intents: [Discord.Intents.FLAGS.GUILDS, Discord.Intents.FLAGS.GUILD_MESSAGES]
